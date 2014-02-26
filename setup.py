@@ -39,8 +39,7 @@ setup(name='django-telekom-bmp',
       zip_safe=True,
       install_requires=[
           'python-social-auth',
-          'django-extensions'
-          'minidom',
+          'django-extensions',
           'flufl.enum',
       ],
       tests_require=[
