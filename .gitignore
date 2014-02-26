@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+*.swp
+.idea
+docs/_build/
+.ropeproject/
+.coverage
