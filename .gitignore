@@ -5,3 +5,5 @@
 docs/_build/
 .ropeproject/
 .coverage
+*egg-info/
+dist/
