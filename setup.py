@@ -21,7 +21,7 @@ def read_that_file(path):
     with open(path) as open_file:
         return open_file.read()
 
-long_description = '\n'.join((read_that_file('README.rst'),
+long_description = '\n'.join((read_that_file('README.md'),
                               read_that_file('LICENSE.txt')))
 
 version = '0.0.1'
