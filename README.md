@@ -4,6 +4,9 @@ Django Telekom BMP Integration
 This is an app that helps to integrate a django app with the Deutsche
 Telekom Bussiness Market Place (MP from now on).
 
+It is based mostly on the example provided on
+https://github.com/AppDirect/Sample-Python-Application
+
 Detailed documentation is in the "docs" directory.
 
 Quick start
